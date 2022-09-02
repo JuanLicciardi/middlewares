@@ -3,6 +3,16 @@
 }
 
 body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   margin: 0;
   font-family: sans-serif;
+
+}
+
+body h1{
+  width: 100%;
+  text-align: center;
+  
 }
